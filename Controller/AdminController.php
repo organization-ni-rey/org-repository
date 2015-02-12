@@ -1,7 +1,12 @@
 <?php
 
 	class AdminController extends AppController{
+		/*
+		Comment naku. 
+		Hello Hello
 		
+		
+		*/
 		public $uses = array(
 			'User',
 			'UserMeta'
