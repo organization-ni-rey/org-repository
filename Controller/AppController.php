@@ -1,4 +1,5 @@
 <?php
+	//manol
 	App::uses('Controller', 'Controller');
 	App::import('Vendor', 'Encryption/Encryption');
 	class AppController extends Controller {
